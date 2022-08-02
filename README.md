@@ -14,7 +14,7 @@ $ npm i
 
 # Challenge 1
 
-Most frequent word
+**Most frequent word**
 
 Given a string named “paragraph” and a list of strings named “forbidden words”, the most frequent word within the paragraph that is not in the forbidden words list should be returned. Only one word should return and this word can’t be a forbidden word. The words within the paragraph are not case sensitive and the answer must be in lower case.
 
@@ -53,7 +53,7 @@ $ node src/most-frequent-word.js
 
 # Challenge 2 
 
-More profitable operation
+**More profitable operation**
 
 As part of our car buying and selling process, we often have a forecast of potential car prices. A good use of this forecast is to take advantage of the moment when the price of a car is low to buy it and then take advantage of the moment when that price is higher to sell it.
 Let's say we have a string with N integer prices separated by a comma, where each price P (i) represents the value of a car on day i. If we are only allowed to do one buy trade and one sell trade, then design an algorithm that finds the highest possible profit given the 
