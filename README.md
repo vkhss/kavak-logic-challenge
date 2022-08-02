@@ -9,6 +9,7 @@ Challenge for Back End developer at Kavak
 
 ```
 $ git clone https://github.com/vkhss/kavak-logic-challenge.git
+$ cd kavak-logic-challenge
 $ npm i
 ```
 
